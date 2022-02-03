@@ -1,1 +1,2 @@
-# flask_scaffold_template_01
+# Soduku Puzzel Solver
+- Descriptions coming soon...
